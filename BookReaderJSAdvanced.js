@@ -107,7 +107,6 @@ var options = {
   // embed === iframe
 
   ui: 'full', // embed, full (responsive)
-
 };
 var br = new BookReader(options);
 
