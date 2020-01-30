@@ -3279,8 +3279,8 @@ BookReader.prototype.initNavbar = function() {
         +     "<button class=\"BRicon thumb desktop-only js-tooltip\"></button>"
 
         // zoomx
-        +     "<button class='BRicon zoom_out desktop-only js-tooltip'></button>"
-        +     "<button class='BRicon zoom_in desktop-only js-tooltip'></button>"
+        +     "<button class='BRicon zoom_out js-tooltip'></button>"
+        +     "<button class='BRicon zoom_in js-tooltip'></button>"
         +     "<button class='BRicon full js-tooltip'></button>"
         +"  </div>"
         +"</div>"
