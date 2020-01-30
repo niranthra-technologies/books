@@ -7,7 +7,7 @@
 var options = {
   // Total number of leafs
   getNumLeafs: function() {
-      return 14;
+      return 41;
   },
 
   // Return the width of a given page.  Here we assume all images are 800 pixels wide
